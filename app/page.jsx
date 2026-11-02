@@ -1193,3 +1193,4 @@ export default function TennisCoachBooking() {
     </div>
   );
 }
+export default TennisCoachBooking;
