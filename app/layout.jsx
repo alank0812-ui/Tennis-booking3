@@ -1,4 +1,3 @@
-JavaScript
 import "./globals.css";
 
 export const metadata = {
